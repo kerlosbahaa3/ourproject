@@ -1,3 +1,2 @@
 kasdsdasda;
 sadsdasda;
-SVGMetadataElement;
